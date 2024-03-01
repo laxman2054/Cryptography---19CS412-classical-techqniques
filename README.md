@@ -335,7 +335,7 @@ return 0;
 
 OUTPUT :
 
-![image](https://github.com/laxman2054/cryptography_19CS412_classical_techni/assets/118680826/51a7c5ff-f822-4bd6-8552-eb46ee9d7176)
+![image](https://github.com/laxman2054/Cryptography---19CS412-classical-techqniques/assets/118680826/b63b3b7d-a85d-444f-a59c-7317935c2b93)
 
 
 
