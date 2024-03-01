@@ -463,7 +463,7 @@ return 0;
 
 OUTPUT :
 
-![image](https://github.com/laxman2054/cryptography_19CS412_classical_techni/assets/118680826/df0a79ec-cbf8-4005-a5f7-39e92e65d5ef)
+![image](https://github.com/laxman2054/Cryptography---19CS412-classical-techqniques/assets/118680826/ebce0ae0-c8fe-424c-ac0e-fae97d1fc9a5)
 
 
 RESULT :
